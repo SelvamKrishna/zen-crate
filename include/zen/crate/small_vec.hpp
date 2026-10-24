@@ -1,6 +1,6 @@
 #pragma once
 
-#include <zen/crate/iterator.hpp>
+#include <zen/crate/iterator/_contiguous_container.hpp>
 
 #include <algorithm>
 #include <cassert>
